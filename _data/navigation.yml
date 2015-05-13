@@ -6,6 +6,8 @@
   url: "/rapydli/"
   side: left
   dropdown:
+  - title: "About"
+    url: "/info/"
   - title: "Web Page"
     url: "http://rapydli.org"
 

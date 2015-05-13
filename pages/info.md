@@ -30,7 +30,7 @@ high-performance operations needed for DL research on distributed HPC
 systems. Our approach mimics the way BLAS and BLACS provided
 primitives to implement and extend high-level linear algebra codes.
 
-![Framework](/images/rapydli-framework.png)
+![Framework](http://rapydli.github.io/responsive/images/rapydli-framework.png)
 
 <center> Figure: Rapydli Framework </center>
 
