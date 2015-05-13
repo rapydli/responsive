@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rapydli</title>
-    <description>Rapydli is a set of modules for deep learning.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <description>»Rapydli« provides deep learning modules..</description>
+    <link>http://rapydli.github.io/responsive//</link>
+    <atom:link href="http://rapydli.github.io/responsive//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Big Data Deployments in Indiana University Classes</title>
@@ -41,8 +41,8 @@ and hadoop clusters.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/design/classes/</link>
-        <guid isPermaLink="true">http://localhost:4000/design/classes/</guid>
+        <link>http://rapydli.github.io/responsive//design/classes/</link>
+        <guid isPermaLink="true">http://rapydli.github.io/responsive//design/classes/</guid>
       </item>
     
   </channel>
