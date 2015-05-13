@@ -10,6 +10,8 @@
     url: "/info/"
   - title: "Web Page"
     url: "http://rapydli.org"
+  - title: "Google Docs"
+    url: "https://drive.google.com/folderview?id=0B2sDCae0JbDMaDV3MFdfVlV1U3M&usp=sharing_eid#list"
 
 - title: "Modules"
   url: "/cloudmesh/"
