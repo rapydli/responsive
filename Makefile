@@ -11,4 +11,5 @@ publish:
 	jekyll build --config _config.yml,_config_dev.yml
 	git commit -a
 	git push
+	ghp-import -p _site
 	open http://rapydli.github.io/responsive
