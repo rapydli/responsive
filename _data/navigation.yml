@@ -1,0 +1,38 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Rapydli"
+  url: "/rapydli/"
+  side: left
+  dropdown:
+  - title: "Web Page"
+    url: "http://rapydli.org"
+
+- title: "Modules"
+  url: "/cloudmesh/"
+  side: left
+  dropdown:
+  - title: "Cloudmesh"
+    url: "https://mycloudmesh.org/blog"
+
+- title: Information
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
