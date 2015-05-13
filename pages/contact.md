@@ -11,6 +11,8 @@ permalink: "/contact/"
 
 <gcfoxexchange@gmail.com>
 
+<img src="/images/people/fox.jpg" alt="Image" width="100">
+
 Geoffrey Fox received a Ph.D. in Theoretical Physics from Cambridge
 University and is now professor of Informatics and Computing, and
 Physics at Indiana University as well as director of the Digital
@@ -25,6 +27,8 @@ projects to enhance the capabilities of Minority Serving Institutions.
  
 
 ## Jack Dongarra	
+
+<img src="/images/people/dongarra.jpg" alt="Image" width="100">
 
 Jack Dongarra received a Bachelor of Science in Mathematics from
 Chicago State University in 1972 and a Master of Science in Computer
@@ -47,6 +51,8 @@ research efforts at the university.
 
 ## Andrew Ng	
 
+<img src="/images/people/ng.png" alt="Image" width="100">
+
 Andrew Ng is Associate Professor of Computer Science at Stanford,
 Chief Scientist of Baidu, and Chairman and Co-founder of
 Coursera. Ng’s goal is to give everyone in the world access to a great
@@ -63,6 +69,8 @@ such applications as autonomous driving.
 
 ## Judy Qiu	
 
+<img src="/images/people/xqiu.jpg" alt="Image" width="100">
+
 Dr. Qiu is an assistant professor of Computer Science at Indiana
 University. She graduated from Syracuse University with an Outstanding
 Graduate Student Award, completing her Ph.D. in Computer Science
@@ -77,6 +85,8 @@ Trustees Award For Teaching Excellence in 2013-2014.
  
 
 ## Gregor von Laszewski	
+
+<img src="/images/people/laszewski.jpg" alt="Image" width="100">
 
 <lasewski@gmail.com>
 
@@ -98,6 +108,8 @@ research interests are in the areas of cloud computing.
  
 
 ## Adam Coates	
+
+<img src="/images/people/coates.png" alt="Image" width="100">
 
 Adam Coates is a post-doctoral researcher working under Andrew
 Ng. Deep learning is his principal focus of research.
