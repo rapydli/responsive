@@ -25,15 +25,17 @@
 
     &lt;h2 id=&quot;adding-articles-via-github&quot;&gt;Adding articles via github&lt;/h2&gt;
 
-    &lt;p&gt;COntent on this Rapydli web page can be directly be edited in github. The pages are maintained in the following directory.&lt;/p&gt;
+    &lt;p&gt;Content on this Rapydli web page can be directly be edited in github. The pages are maintained in the following directory.&lt;/p&gt;
 
     &lt;p&gt;We have not yet made the pages automatically published to github once they are uploaded, but that can be done in future.&lt;/p&gt;
 
-    &lt;p&gt;PLease add your articles to&lt;/p&gt;
+    &lt;p&gt;Please add your articles to the directory&lt;/p&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;https://github.com/cloudmesh/blog/tree/master/responsive/_posts/design&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/cloudmesh/blog/tree/master/responsive/_posts/design&quot;&gt;_posts&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
+
+    &lt;p&gt;you acn use a previous article as template&lt;/p&gt;
 
   &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
 &lt;/div&gt;
