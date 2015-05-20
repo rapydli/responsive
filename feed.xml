@@ -35,7 +35,10 @@
       &lt;li&gt;&lt;a href=&quot;https://github.com/cloudmesh/blog/tree/master/responsive/_posts/design&quot;&gt;_posts&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 
-    &lt;p&gt;you acn use a previous article as template&lt;/p&gt;
+    &lt;p&gt;you can use a previous article as template. The articles are written
+in
+&lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;markdown&lt;/a&gt;. Hence
+it is trivial to contribute.&lt;/p&gt;
 
   &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
 &lt;/div&gt;
